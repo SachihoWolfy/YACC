@@ -261,6 +261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.23
@@ -637,6 +641,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: flee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.34
@@ -681,6 +693,10 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5582689775198147110, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5fc99a65bcfa04c4bbdded2a57f1352a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1044,6 +1060,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: flee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.8
@@ -1088,6 +1112,10 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5582689775198147110, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5fc99a65bcfa04c4bbdded2a57f1352a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1242,6 +1270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.23
@@ -1368,6 +1400,10 @@ PrefabInstance:
     - target: {fileID: 98516233826577744, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_Name
       value: Brick (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1638,6 +1674,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: flee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.27
@@ -1682,6 +1726,10 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5582689775198147110, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5fc99a65bcfa04c4bbdded2a57f1352a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1775,6 +1823,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: flee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.0900002
@@ -1819,6 +1875,10 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5582689775198147110, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5fc99a65bcfa04c4bbdded2a57f1352a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2091,6 +2151,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick
       objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: flee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 709291271138065626, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: maxSpeed
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3315563748053025800, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2135,6 +2203,10 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5582689775198147110, guid: 5e3d017d2dbdbd14bb0d154a727f62c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5fc99a65bcfa04c4bbdded2a57f1352a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
